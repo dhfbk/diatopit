@@ -2,7 +2,7 @@
 
 This repository contains code and resources associated to the paper:
 
-Alan Ramponi and Camilla Casula. 2023. **DiatopIt: A Corpus of Social Media Posts for the Study of Diatopic Language Variation in Italy**. In *Tenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2023)*, pages 187–199, Dubrovnik, Croatia. Association for Computational Linguistics. [[cite]](#citation) [[paper]](https://aclanthology.org/2023.vardial.1.19/)
+Alan Ramponi and Camilla Casula. 2023. **DiatopIt: A Corpus of Social Media Posts for the Study of Diatopic Language Variation in Italy**. In *Tenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2023)*, pages 187–199, Dubrovnik, Croatia. Association for Computational Linguistics. [[cite]](#citation) [[paper]](https://aclanthology.org/2023.vardial-1.19/)
 
 
 :construction: The dataset is currently part of the [GeoLingIt shared task](https://sites.google.com/view/geolingit) at [EVALITA 2023](https://www.evalita.it/campaigns/evalita-2023/). The material for DiatopIt will thus be made available at the end of the shared task: stay tuned! :construction:
